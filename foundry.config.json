@@ -1,0 +1,11 @@
+{
+  "foundryUrl": "https://arponpurkayastha.usw-3.palantirfoundry.com",
+  "site": {
+    "application": "ri.third-party-applications.main.application.b880ce0a-4251-4f1d-aff2-43ce5c0acf9d",
+    "directory": "./dist",
+    "autoVersion": {
+      "type": "git-describe",
+      "tagPrefix": ""
+    }
+  }
+}
